@@ -1,0 +1,9 @@
+What makes a clean code?
+
+Based on the Clean Code book, we can describe certain rules: 
+Good variable and method names 
+Good use of the camel case according to the language we are using 
+Respect the SOLID principles of classes and methods, where each piece of code does not adopt or perform more responsibilities than it should 
+Don't hardcode strings or values 
+Respect tabulation of the project if it is appropriate to the technology 
+Respect the architecture being used 
